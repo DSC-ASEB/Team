@@ -2,7 +2,7 @@
 name: Add member
 about: Description of New Member
 title: ''
-labels: ''
+labels: 'Add member'
 assignees: ''
 
 ---
