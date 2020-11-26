@@ -1,5 +1,5 @@
 ---
-name: New Member
+name: Add member
 about: Description of New Member
 title: ''
 labels: ''
