@@ -1,7 +1,7 @@
 ---
 name: Add member
 about: Add a missing member of DSC ASEB
-title: 'Add [Person's name here]'
+title: 'Add [Name of person here]'
 labels: 'Add member'
 assignees: '@DSC-ASEB/leads'
 
