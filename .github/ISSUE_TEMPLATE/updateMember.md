@@ -1,7 +1,7 @@
 ---
 name: Update member
 about: Update an existing member of DSC ASEB
-title: 'Update [Person's name here]'
+title: 'Update [Name of person here]'
 labels: 'Update member'
 assignees: '@DSC-ASEB/leads'
 
