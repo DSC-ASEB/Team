@@ -1,7 +1,7 @@
 ---
 name: Remove member
 about: Remove an existing member of DSC ASEB
-title: 'Remove [Person's name here]'
+title: 'Remove [Name of person here]'
 labels: 'Remove member'
 assignees: '@DSC-ASEB/leads'
 
